@@ -1,0 +1,9 @@
+Buenos días, tardes, noches...
+
+Ofresco disculpas por la tardanza, he tenido probemas con
+mi equipo y con el manejo de git. Aspiro a tener todo listo
+el lunes en la tarde.
+
+Mí proyecto es una página para alquiler de disfraces.
+
+Att.: Jaime Alexánder Martínez.     
